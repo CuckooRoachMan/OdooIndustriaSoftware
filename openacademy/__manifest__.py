@@ -33,7 +33,7 @@
         'views/partner.xml',
         'views/security.xml',
         'views/reports.xml',
-        'views/session_board.xml',
+        #'views/session_board.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
