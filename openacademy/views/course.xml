@@ -16,7 +16,7 @@
                             <field name="description"/>
                           </page>
                           <page string="About">
-                            No tengo idea de que son los notebooks
+                            Aqui deberia ir un campo about
                           </page>
                           <page string="Sessions">
                                <field name="session_ids">
